@@ -15,7 +15,7 @@
   - Mousepads:
   - Artisan Hayate Otsu Mid
   - Artisan Hien Soft
-  - Logitech G640 (i know, i know)
+  - Ikea Varmblixt (glass)
 
 Main games
 - VALORANT
