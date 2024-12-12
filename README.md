@@ -5,7 +5,7 @@
   - Matrix Corsa (6xv3.0), Flex cut alu, l+f hyperglide mx blacks
   - Acrylic Suit80 (TN80s)
   - HHKB
-  >> For gaming: Drunkdeer G65
+  >> For gaming: Logitech G Pro TKL Rapid
 - Current audio rotation:
   - Letshoer S12 Pro
   >> For gaming: Logitech G Pro X 2 Lightspeed (?)
