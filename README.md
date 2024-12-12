@@ -11,7 +11,7 @@
   >> For gaming: Logitech G Pro X 2 Lightspeed (?)
 - Current mouse rotation:
   - Sora V2 for PC
-  - Logitech G Pro X 2 for Mac
+  - Logitech G Pro X 2 Dex for Mac
   - Mousepads:
   - Artisan Hayate Otsu Mid
   - Artisan Hien Soft
