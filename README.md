@@ -8,7 +8,7 @@
   >> For gaming: Logitech G Pro TKL Rapid
 - Current audio rotation:
   - Letshoer S12 Pro
-  >> For gaming: Logitech G Pro X 2 Lightspeed (?)
+  >> For gaming: Logitech G Pro X 2 Lightspeed
 - Current mouse rotation:
   - Sora V2 for PC
   - Logitech G Pro X 2 Dex for Mac
