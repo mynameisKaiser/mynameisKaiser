@@ -18,7 +18,4 @@
   - Ikea Varmblixt (glass)
 
 Main games
-- VALORANT
-- Hollow Knight
-- HiFi Rush
-- Risk of Rain 2
+- The Finals
